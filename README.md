@@ -26,13 +26,5 @@ The following example illustrates the format of the annotated sentences of the d
 
 The possible values of the polarity field are: 1 (¡°positive¡±), 2 (¡°neutral¡±), 3 (¡°negative¡±). The possible values of the category field are: "performance", "price", "quality", "appearance", "easy_to_use".
 
-=====Citation=====</br>
-@article{yang2019neural,</br>
-  &emsp;title={Neural Attentive Network for Cross-Domain Aspect-level Sentiment Classification},</br>
-  &emsp;author={Yang, Min and Yin, Wenpeng, Qu, Qiang and Tu, Wenting and Shen, Ying and Chen, Xiaojun},</br>
-  &emsp;booktitle={IEEE Transactions on Affective Computing},</br>
-  &emsp;year={2019}</br>
-}
-
 =====Contact=====</br>
 min.yang1129@gmail.com
